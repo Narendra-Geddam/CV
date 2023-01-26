@@ -1,0 +1,26 @@
+#profile {
+    border-radius: 50%;
+}
+#font{
+    font-size: 1em;
+}
+hr{
+    width: 90%;
+    align-items: center;
+}
+#small_text{
+    font-size: small;
+}
+#minihr{
+    width: 80%;
+
+    align-items: center;
+}
+#skilltb{
+    text-align: left;
+}
+body{
+    background-color: #00203FFF;
+    color: #ADEFD1FF;
+    font-family: sans-serif;
+}
